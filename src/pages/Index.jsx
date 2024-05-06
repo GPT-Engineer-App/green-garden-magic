@@ -6,10 +6,10 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center" bgGradient="linear(to-br, green.300, yellow.400)">
       <VStack spacing={4} p={5} bg="whiteAlpha.900" borderRadius="lg" boxShadow="md">
         <Heading as="h1" size="xl" color="green.600">
-          Green Thumb Gardening
+          RHS Garden Services
         </Heading>
         <Text fontSize="md" color="gray.600">
-          Your one-stop solution for all gardening needs!
+          Your Trusted Gardener
         </Text>
         <List spacing={3} textAlign="left" width="100%">
           <ListItem>
